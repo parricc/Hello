@@ -1,2 +1,2 @@
 # Hello
-LFS261 Lab
+A simple ruby app for some CICD practice!
